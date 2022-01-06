@@ -53,14 +53,24 @@ main {
 }
 
 .skills {
+    height: 50%;
     grid-row-start: 3;
-    grid-row-end: 5%;
+    grid-row-end: auto;
     grid-column-start: 1;
-    grid-column-end: 6;
+    grid-column-end: 11;
     padding: 5%;
     background-color: #4c4c69;
 }
 
+i {
+    font-size: 400%;
+    word-spacing: 20%;
+}
+
+.skills li {
+    display: inline;
+    padding: 3%
+}
 footer {
     display: inline-flex;
     background-color: honeydew;
