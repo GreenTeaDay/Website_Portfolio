@@ -1,0 +1,169 @@
+
+body {
+    margin: 270px 700px 100px 700px;
+    background-color: whitesmoke;
+}
+.Colors_Container {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 20px;
+    margin: 60px;
+    
+    width: 100%;
+    text-align: center;
+}
+.Fonts_Container {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 20px;
+    margin: 60px;
+    
+    width: 100%;
+    text-align: center;
+}
+
+.textStyles_Container {
+    border: 1px solid black;
+    display: inline-block;
+    padding: 20px;
+    margin: 60px;
+    text-align: justify;
+
+    width: 100%;
+}
+.blue-content {
+    display: inline-block;
+    background-color: #2d5dcc;
+    color: white;
+    width: 30%;
+    height: 300px;
+    text-align: center;
+    margin: 200px auto;
+    font-size: 50px;
+}
+
+.pink-content {
+    display: inline-block;
+    background-color: #d957d9;
+    color: black;
+    width: 30%;
+    height: 300px;
+    text-align: center;
+    margin: 200px auto;
+    font-size: 50px;
+
+}
+
+.green-content {
+    display: inline-block;
+    background-color: #4fe0b0;
+    color: black;
+    width: 30%;
+    height: 300px;
+    text-align: center;
+    margin: 200px auto;
+    font-size: 50px;
+}
+
+.beige-content {
+    display: inline-block;
+    background-color: #efd9ca;
+    color: black;
+    width: 32%;
+    height: 300px;
+    text-align: center;
+    margin-bottom: 200px;
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 90px;
+}
+h2 {
+    font-size: 70px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+
+.normal {
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.lists {
+    display: block;
+    font-size: 50px;
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+    margin-top: auto;
+    padding: auto;
+}
+
+.P {
+    font-size: 70px;
+    margin: 40px;
+}
+
+.tsHeading {
+    margin: 40px;
+}
+
+.SCP {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.Poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.Nunito {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+#tsTitle {
+    text-align: center;
+}
+#Title {
+    margin-top: 3px;
+}
+
+
+.a h1 {
+font-family: 'Nunito Sans', sans-serif;
+font-weight: bold;
+}
+
+.b h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.c p {
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+}
+
+.a, .b, .c {
+list-style-position: inherit;
+text-align: center;
+
+}
