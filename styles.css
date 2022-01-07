@@ -71,6 +71,10 @@ i {
     display: inline;
     padding: 3%
 }
+
+.skills img {
+    display: none;
+}
 footer {
     display: inline-flex;
     background-color: honeydew;
@@ -86,4 +90,9 @@ footer {
     width: 300%;
     height: auto;
     border-radius: 25%;
+}
+
+image {
+    height: 50%;
+    width: auto;
 }
