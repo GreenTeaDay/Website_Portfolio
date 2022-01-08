@@ -78,6 +78,7 @@ i {
 footer {
     display: inline-flex;
     background-color: honeydew;
+    height: 50%;
 }
 
 .profilepicture {
@@ -95,4 +96,8 @@ footer {
 image {
     height: 50%;
     width: auto;
+}
+
+.projects summary {
+    text-decoration: underline;
 }
