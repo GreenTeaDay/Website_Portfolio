@@ -31,7 +31,7 @@ header li {
     
 }
 
-/* This extra space aesthetic works for some reason. Reducing the frid-template to 3 makes the bottom shorter, but also less pleasing to interact with. */ 
+/* This extra space aesthetic works for some reason. Reducing the grid-template to 3rows makes the bottom shorter, but also less pleasing to interact with. */ 
 main {
     display: grid;
     grid-template: repeat(4, 1fr) / repeat(8, 1fr);
