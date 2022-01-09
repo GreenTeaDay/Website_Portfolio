@@ -1,6 +1,7 @@
 html {
     margin: 5% 10%;
     zoom: 110%;
+    
 }
 
 header {
@@ -27,6 +28,7 @@ header li {
     display: inline;
     float: right;
     padding : 2%;
+    
 }
 
 main {
@@ -59,7 +61,7 @@ main {
     grid-row-start: 3;
     grid-row-end: auto;
     grid-column-start: 1;
-    grid-column-end: 11;
+    grid-column-end: 1221;
     padding: 5%;
     background-color: #4c4c69;
 }
