@@ -41,16 +41,16 @@ main {
     
     font-size: 1.3rem;
     display: inline-block;
-    background-color: hsl(39, 82%, 55%);
+    background-color: hsla(120, 51%, 44%, 0.616);
     padding: 2em;
-    border-radius: 9rem;
+    border-radius: 1rem;
     
 }
 
 .contactContainer {
-    background-color: hsl(16, 95%, 32%);
+    background-color: rgba(159, 45, 4, 0.096);
     font-size: 1.3rem;
     display: inline-block;
     padding: 10em;
-    border-radius: 9rem;
+    border-radius: 1rem;
 }
